@@ -60,3 +60,9 @@ Dado um conjunto de caracteres, você precisará extrair os "diamantes"  `<>` e 
 - O diamante é a junção dos sinais menor `<` e maior `>` sem que não haja nada entre eles.
 - Areia é o ponto final.
 - Considerando a entrada `<<>>><` Ao extrair um diamante `<>`, é formado um novo diamante para ser extraído `<>><`
+
+----------
+
+
+Qualquer dúvida, técnica ou não, você pode entrar em contato respondendo o e-mail que você recebeu ou diretamente para `rh@mobile2you.com.br`
+### **Boa Sorte! :)**
