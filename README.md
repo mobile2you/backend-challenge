@@ -64,5 +64,5 @@ Dado um conjunto de caracteres, você precisará extrair os "diamantes"  `<>` e 
 ----------
 
 
-Qualquer dúvida, técnica ou não, você pode entrar em contato respondendo o e-mail que você recebeu ou diretamente para `rh@mobile2you.com.br`
+Qualquer dúvida, técnica ou não, você pode entrar em contato respondendo o e-mail que você recebeu ou diretamente para `figueiro.danielaa@dimensa.com.br`
 ### **Boa Sorte! :)**
